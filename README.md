@@ -18,3 +18,6 @@ Movie Explorer is a sophisticated application tailored for movie aficionados. It
 - Rate movies
 - Add movies to watchlist
 - View detailed movie information including storyline, cast, and director
+
+## Demo:
+https://popcorn-besher.netlify.app
